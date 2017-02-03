@@ -2,6 +2,8 @@
 
 Fixed `rc-util` and `@types/react` version in parent dependencies.
 
+npminstall-test-child package.json: https://unpkg.com/npminstall-test-child@2.0.0/package.json
+
 ### default way
 
 It will install `rc-util` and `@types/react` according to `npminstall-test-child`'s dependencies.
