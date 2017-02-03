@@ -1,5 +1,9 @@
 ## npminstall result compare
 
+Discusstion issue: https://github.com/cnpm/npminstall/pull/193
+
+---
+
 Fixed `rc-util` and `@types/react` version in parent dependencies.
 
 npminstall-test-child package.json: https://unpkg.com/npminstall-test-child@2.0.0/package.json
